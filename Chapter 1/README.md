@@ -1,4 +1,4 @@
-### Chapter 1: Getting Started with Object-Oriented Analysis and Design
+### Chapter 1: Great Software Begins Here: well-designed apps rock
 
 In this chapter, we will explore the basics of object-oriented analysis and design. We have created a simple inventory management system for guitars. The main classes and their responsibilities are:
 
