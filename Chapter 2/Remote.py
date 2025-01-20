@@ -1,3 +1,4 @@
+import time
 
 class Remote:
    def __init__(self, door):
@@ -9,3 +10,5 @@ class Remote:
          self.door.close_door()
       else:
          self.door.open_door()
+         time.sleep(5)
+         self.door.close_door()
