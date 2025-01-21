@@ -1,4 +1,4 @@
-### Chapter 2: I Love You, You’re Perfect... Now Change: requirements change
+### Chapter 2: Give Them What They Want: gathering requirements
 
 This chapter was all about why requirements are important, how to gather requirements, and how to use "use cases" to create better requirements.
 
